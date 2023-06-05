@@ -1,12 +1,12 @@
 # MS_conf
-## Unsupervised Bidirectional Cross-Modality Adaptation via Deeply Synergistic Image and Feature Alignment for Medical Image Segmentation
+## 
 
 Tensorflow implementation of our unsupervised cross-modality domain adaptation framework. <br/>
 This is the version of our [TMI paper](https://arxiv.org/abs/2002.02255). <br/>
 Please refer to the branch [SIFA-v1](https://github.com/cchen-cc/SIFA/tree/SIFA-v1) for the version of our AAAI paper. <br/>
 
 ## Paper
-[Unsupervised Bidirectional Cross-Modality Adaptation via Deeply Synergistic Image and Feature Alignment for Medical Image Segmentation](https://arxiv.org/abs/2002.02255)
+[]
 <br/>
 IEEE Transactions on Medical Imaging
 <br/>

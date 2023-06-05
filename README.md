@@ -36,28 +36,13 @@ cd SIFA
 ## Evaluate
 * Our trained models can be downloaded from [Dropbox](https://www.dropbox.com/sh/787kmmuhvh3e3yb/AAC4qxBJTWwQ1UMN5psrN96ja?dl=0).
   Note that the data statistics in evaluate.py need to be changed accordingly as specificed in the script.
-* Specify the model path and test file path in `./evaluate.py`
+* Specify the model path and test file path in `./test.py`
 * Run `./evaluate.py` to start the evaluation.
 
 ## Citation
 If you find the code useful for your research, please cite our paper.
 ```
-@article{chen2020unsupervised,
-  title     = {Unsupervised Bidirectional Cross-Modality Adaptation via 
-               Deeply Synergistic Image and Feature Alignment for Medical Image Segmentation},
-  author    = {Chen, Cheng and Dou, Qi and Chen, Hao and Qin, Jing and Heng, Pheng Ann},
-  journal   = {arXiv preprint arXiv:2002.02255},
-  year      = {2020}
-}
-
-@inproceedings{chen2019synergistic,
-  author    = {Chen, Cheng and Dou, Qi and Chen, Hao and Qin, Jing and Heng, Pheng-Ann},
-  title     = {Synergistic Image and Feature Adaptation: 
-               Towards Cross-Modality Domain Adaptation for Medical Image Segmentation},
-  booktitle = {Proceedings of The Thirty-Third Conference on Artificial Intelligence (AAAI)},
-  pages     = {865--872},
-  year      = {2019},
-}
+@article
 ```
 
 ## Acknowledgement
@@ -65,4 +50,4 @@ Part of the code is revised from the [Tensorflow implementation of CycleGAN](htt
 
 ## Note
 * The repository is being updated
-* Contact: Cheng Chen (chencheng236@gmail.com)
+* Contact: Yajie Chen (yajiechen@hust.edu.cn)

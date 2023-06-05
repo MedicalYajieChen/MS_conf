@@ -2,8 +2,8 @@
 ## 
 
 Tensorflow implementation of our unsupervised cross-modality domain adaptation framework. <br/>
-This is the version of our [TMI paper](https://arxiv.org/abs/2002.02255). <br/>
-Please refer to the branch [SIFA-v1](https://github.com/cchen-cc/SIFA/tree/SIFA-v1) for the version of our AAAI paper. <br/>
+This is the version of our [TMI paper]. <br/>
+Please refer to the branch [SIFA-v1] for the version of our  paper. <br/>
 
 ## Paper
 []

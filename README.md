@@ -1,14 +1,14 @@
 # MS_conf
 ## 
 
-Tensorflow implementation of our unsupervised cross-modality domain adaptation framework. <br/>
-This is the version of our [TMI paper]. <br/>
-Please refer to the branch [SIFA-v1] for the version of our  paper. <br/>
+Pytorch implementation of our unsupervised cross-modality domain adaptation framework. <br/>
+This is the version of our []. <br/>
+Please refer to the branch [] for the version of our  paper. <br/>
 
 ## Paper
 []
 <br/>
-IEEE Transactions on Medical Imaging
+
 <br/>
 <br/>
 <p align="center">

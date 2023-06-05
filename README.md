@@ -16,11 +16,11 @@ Please refer to the branch [] for the version of our  paper. <br/>
 </p>
 
 ## Installation
-* Install TensorFlow 1.10 and CUDA 9.0
+* Install Tnsorflow 1.10 and CUDA 9.0
 * Clone this repo
 ```
-git clone https://github.com/cchen-cc/SIFA
-cd SIFA
+git clone https://github.com/MedicalYajieChen/Ms_conf
+cd Ms_conf
 ```
 
 ## Data Preparation

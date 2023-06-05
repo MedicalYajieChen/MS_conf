@@ -24,20 +24,13 @@ cd SIFA
 ```
 
 ## Data Preparation
-* Raw data needs to be written into `tfrecord` format to be decoded by `./data_loader.py`. The pre-processed data has been released from our work [PnP-AdaNet](https://github.com/carrenD/Medical-Cross-Modality-Domain-Adaptation). The training data can be downloaded [here](https://drive.google.com/file/d/1m9NSHirHx30S8jvN0kB-vkd7LL0oWCq3/view). The testing CT data can be downloaded [here](https://drive.google.com/file/d/1SJM3RluT0wbR9ud_kZtZvCY0dR9tGq5V/view). The testing MR data can be downloaded [here](https://drive.google.com/file/d/1Bm2uU4hQmn5L3GwXz6I0vuCN3YVMEc8S/view?usp=sharing).
-* Put `tfrecord` data of two domains into corresponding folders under `./data` accordingly.
-* Run `./create_datalist.py` to generate the datalists containing the path of each data.
+* 
 
 ## Train
-* Modify the data statistics in data_loader.py according to the specifc dataset in use. Note that this is a very important step to correctly convert the data range to [-1, 1] for the network inputs and ensure the performance.
-* Modify paramter values in `./config_param.json`
-* Run `./main.py` to start the training process
+* 
 
 ## Evaluate
-* Our trained models can be downloaded from [Dropbox](https://www.dropbox.com/sh/787kmmuhvh3e3yb/AAC4qxBJTWwQ1UMN5psrN96ja?dl=0).
-  Note that the data statistics in evaluate.py need to be changed accordingly as specificed in the script.
-* Specify the model path and test file path in `./test.py`
-* Run `./evaluate.py` to start the evaluation.
+* 
 
 ## Citation
 If you find the code useful for your research, please cite our paper.

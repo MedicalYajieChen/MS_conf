@@ -12,11 +12,11 @@ Please refer to the branch [] for the version of our  paper. <br/>
 <br/>
 <br/>
 <p align="center">
-  <img src="figure/framework.png">
+  <img src="figure/pipeline.pdf">
 </p>
 
 ## Installation
-* Install Tnsorflow 1.10 and CUDA 9.0
+* Install Pytorch 1.10 and CUDA 9.0
 * Clone this repo
 ```
 git clone https://github.com/MedicalYajieChen/Ms_conf
